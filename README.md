@@ -1,4 +1,23 @@
-## Hi there 🙋‍♂️, I'm Bilal Ahmed
+<h1 align="center">Hi there 🙋‍♂️, I'm Bilal Ahmed</h1>
+
+<div display="flex" align="center">
+  <a href="https://www.linkedin.com/in/bilal-ahmed-b75125184">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/bilal_ahmed_05/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://www.facebook.com/profile.php?id=100007545697355">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+  <a href="mailto:bilalahmed6551@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+ <a href="https://www.pinterest.com/bilalahmed6551/">
+   <img src="https://img.shields.io/badge/Pinterest-%23E60023.svg?&style=for-the-badge&logo=Pinterest&logoColor=white" />
+  </a>
+</div>
+
 
 <h3 align="center">
 A passionate JAM Stack developer from Pakistan <br />
@@ -6,7 +25,7 @@ A passionate JAM Stack developer from Pakistan <br />
 Bachelor Computer Science (To be graduated in 2023)
 </h3>
 
-- 🔭 I’m currently working on **React JS**
+- 🔭 I’m currently working on **React JS, Netlify and Firebase**
 - 🌱 I’m currently learning **JAM Stack**
 - 👯 I’m looking to collaborate on **Projects related to my Stack**                            
 - 🤔 I’m looking for help with **Cloud Computing**
