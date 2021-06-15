@@ -1,4 +1,4 @@
-## Hi there 👋, I'm Bilal Ahmed
+## Hi there 🙋‍♂️, I'm Bilal Ahmed
 
 <h3 align="center">
 A passionate JAM Stack developer from Pakistan <br />
