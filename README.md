@@ -48,7 +48,6 @@ Bachelor Computer Science (To be graduated in 2023)
   <img src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/git.png" width="80" height="80"  />
   <img src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/heroku.png" width="80" height="80"  />
   <img src="https://img.icons8.com/color/452/firebase.png" width="80" height="80"  />
-  <img src="https://www.netlify.com/img/press/logos/logomark-light.png" width="80" height="80"  />
   <img src="https://api.nuget.org/v3-flatcontainer/yarn.msbuild/1.2.1/icon" width="80" height="80"  />
   <img src="https://d2eip9sf3oo6c2.cloudfront.net/tags/images/000/001/281/thumb/Fauna_Logo_blue.png" width="80" height="80"  />
 </div>
