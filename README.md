@@ -20,7 +20,7 @@
 
 
 <h3 align="center">
-A passionate JAM Stack developer from Pakistan <br />
+A passionate MERN Stack developer from Pakistan <br />
   <br />
 Bachelor Computer Science (To be graduated in 2023)
 </h3>
