@@ -57,7 +57,7 @@ Bachelor of Computer Science (To be graduated in 2024)
 ### Desktop Environment:
 <div display="flex">
   <img src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/vsc.png" width="80" height="80"  />
-  <img src="https://www.freeiconspng.com/img/28165" width="80" height="80"  />
+  <img src="https://www.freeiconspng.com/uploads/linux-icon-2.png" width="80" height="80"  />
 </div>
 
 
