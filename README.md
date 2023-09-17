@@ -13,24 +13,24 @@
   <a href="mailto:bilalahmed6551@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
- <a href="https://www.pinterest.com/bilalahmed6551/">
+<!--  <a href="https://www.pinterest.com/bilalahmed6551/">
    <img src="https://img.shields.io/badge/Pinterest-%23E60023.svg?&style=for-the-badge&logo=Pinterest&logoColor=white" />
-  </a>
+  </a> -->
 </div>
 
 
 <h3 align="center">
 A passionate MERN Stack developer from Pakistan <br />
   <br />
-Bachelor Computer Science (To be graduated in 2023)
+Bachelor of Computer Science (To be graduated in 2024)
 </h3>
 
-- 🔭 I’m currently working on **React JS, Netlify and Firebase**
-- 🌱 I’m currently learning **JAM Stack**
+- 🔭 I’m currently working with **Next JS, Prisma, TailwindCss, and Firebase / MySql**
+- 🌱 I’m currently learning **DevOps**
 - 👯 I’m looking to collaborate on **Projects related to my Stack**                            
-- 🤔 I’m looking for help with **Cloud Computing**
+- 🤔 I’m looking for help with **Cloud and Networking**
 ![Github Image](https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg)
-- 💬 Ask me about **Serverless Web Development**
+- 💬 Ask me about **Website Development and DevOps**
 - 📫 How to reach me: **[Bilal Ahmed](mailto:bilalahmed6551@gmail.com)**
 - 📖 **Reading Books** make me feel better
 - ⚡ Fun fact: **Cricket 💚**
@@ -57,7 +57,7 @@ Bachelor Computer Science (To be graduated in 2023)
 ### Desktop Environment:
 <div display="flex">
   <img src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/vsc.png" width="80" height="80"  />
-  <img src="https://www.freeiconspng.com/thumbs/windows-icon-png/system-windows-icon-png-4.png" width="80" height="80"  />
+  <img src="https://www.freeiconspng.com/img/28165" width="80" height="80"  />
 </div>
 
 
