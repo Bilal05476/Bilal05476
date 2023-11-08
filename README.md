@@ -22,15 +22,15 @@
 <h3 align="center">
 A passionate MERN Stack developer from Pakistan <br />
   <br />
-Bachelor of Computer Science (To be graduated in 2024)
+Bachelor of Computer Science
 </h3>
 
-- 🔭 I’m currently working with **Next JS, Prisma, TailwindCss, and Firebase / MySql**
+- 🔭 I’m currently working with **Next JS, Prisma, TailwindCss, MERN, and Firebase / MySql**
 - 🌱 I’m currently learning **DevOps**
 - 👯 I’m looking to collaborate on **Projects related to my Stack**                            
 - 🤔 I’m looking for help with **Cloud and Networking**
 ![Github Image](https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg)
-- 💬 Ask me about **Website Development and DevOps**
+- 💬 Ask me about **MERN Development and DevOps**
 - 📫 How to reach me: **[Bilal Ahmed](mailto:bilalahmed6551@gmail.com)**
 - 📖 **Reading Books** make me feel better
 - ⚡ Fun fact: **Cricket 💚**
