@@ -22,7 +22,7 @@
 <h3 align="center">
 A passionate MERN Stack developer from Pakistan <br />
   <br />
-Bachelor of Computer Science
+Graduated in Computer Science
 </h3>
 
 - 🔭 I’m currently working with **Next JS, Prisma, TailwindCss, MERN, and Firebase / MySql**
